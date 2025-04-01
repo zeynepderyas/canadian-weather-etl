@@ -12,8 +12,8 @@ This pipeline provides a complete, end-to-end process for building a clean weath
 
 Note:
 follow these steps to run the project via terminal;
-1. Navigate to the project folder on your Desktop (e.g., 'buluttan')
-cd ~/Desktop/buluttan
+1. Navigate to the project folder on your Desktop (e.g., 'bulut')
+cd ~/Desktop/bulut
 
 2. Install required Python libraries
 pip install pandas requests
